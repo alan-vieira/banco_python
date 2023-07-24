@@ -1,2 +1,2 @@
-# banco_python
-trabalhando simulações bancarias com python
+# Banco em Python
+projeto desenvolvido em python para simular operações bancarias
